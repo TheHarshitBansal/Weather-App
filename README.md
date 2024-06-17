@@ -9,3 +9,8 @@ A simple and elegant Weather App that provides real-time weather information usi
 - Weather description and icon
 - Clean and responsive user interface
 
+## Frameworks
+
+- React
+- MaterialUI
+
